@@ -10,11 +10,20 @@ This repository contains the raw dataset used to create interactive dashboards i
 
 ## Description
 
-Power BI visualizations focus on:
-- Sales by Region
-- Profit Trends
-- Product Category Performance
-- Order Priority Analysis
+This Power BI report explores a wide range of business questions and performance metrics, structured into the following key analytical areas:
+
+- Sales Performance by Customer Segment  
+- Geographical Analysis  
+- Product Category and Sub-Category Insights  
+- Order Priorities and Their Impact  
+- Shipping Mode Analysis  
+- Profitability Analysis  
+- Discount and Sales Relationship  
+- Order Dates and Seasonal Trends  
+- Shipping Cost Analysis  
+- Customer Lifetime Value (CLV)  
+- High vs. Low Priority Orders  
+- Segment Comparison Across Regions  
 
 ## Tools Used
 
